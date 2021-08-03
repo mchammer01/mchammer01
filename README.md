@@ -1,3 +1,3 @@
 ## Hello, bom dia, bonjour :wave:
 
-![clouded-leopard-readme](https://user-images.githubusercontent.com/42146119/96302454-c49b1e80-0ff0-11eb-89ba-a6565e2dcccd.jpg)
+![jaguar-readme](https://user-images.githubusercontent.com/42146119/127995654-bcd49386-c7f2-4931-a247-58e5b6c1ccd6.png)
